@@ -18,9 +18,12 @@ The project compares **classical**, **machine learning–based**, and **hybrid**
 
 ## Datasets
 
-- **Stanford Drone Dataset (SDD)** — training pedestrian trajectories  
-- **nuScenes** — urban maps, testing, and hybrid planning  
+- **Stanford Drone Dataset (SDD)** — training pedestrian trajectories
+-  https://www.kaggle.com/datasets/aryashah2k/stanford-drone-dataset
+- **nuScenes** — urban maps, testing, and hybrid planning
+-  https://www.nuscenes.org/
 
+Due to licensing and size constraints, datasets are not included in this repository.
 ---
 
 ## Tech Stack
