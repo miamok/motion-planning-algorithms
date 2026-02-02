@@ -23,7 +23,7 @@ The project compares **classical**, **machine learning–based**, and **hybrid**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.9  
 - PyTorch  
